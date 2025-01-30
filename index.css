@@ -392,7 +392,7 @@ button {
   height: 799px;
   top: 71px;
   left: 466px;
-  background: url(./assets/images/0f2150525520982e073c744afd159dca90be6af4.png)
+  background: url(./assets/images/mboya12..png)
     no-repeat center;
   background-size: cover;
   z-index: 103;
@@ -407,18 +407,7 @@ button {
   background-size: cover;
   z-index: 11;
 }
-.ellipse {
-  position: absolute;
-  width: 800px;
-  height: 800px;
-  top: 354px;
-  left: 640px;
-  background: url(./assets/images/24567942-abdb-458d-9167-5dd01648c506.png)
-    no-repeat center;
-  background-size: cover;
-  z-index: 3;
-  border-radius: 50%;
-}
+
 .rectangle-9 {
   position: absolute;
   width: 1440px;
@@ -633,7 +622,7 @@ button {
   height: 15.79%;
   top: 22.11%;
   left: 17.89%;
-  background: url(./assets/images/24ae6012-5bf3-4df4-af4d-326447cb6204.png)
+  background: url(./assets/images/binnoculars.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 29;
@@ -1758,3 +1747,5 @@ button {
   background-size: 100% 100%;
   z-index: 101;
 }
+
+
